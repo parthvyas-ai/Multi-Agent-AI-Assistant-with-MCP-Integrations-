@@ -1,5 +1,5 @@
 # Multi-Agent-AI-Assistant-with-MCP-Integrations-
-The Multi-MCP Intelligent Assistant is a powerful productivity tool that integrates multiple Model Context Protocol (MCP) servers to provide seamless access to GitHub, Perplexity, Calendar, and Gmail services through natural language interactions. This advanced AI assistant is powered by Agno's AI Agent framework and designed to be a productivity multiplier across your digital workspace.
+In this project a tool was develop named 'Multi-agent Intelligent Assistant' which is a powerful productivity tool that integrates multiple Model Context Protocol (MCP) servers to provide seamless access to GitHub, Perplexity, Calendar, and Gmail services through natural language interactions. This advanced AI assistant is powered by Agno's AI Agent framework and designed to be a productivity multiplier across your digital workspace.
 
 ## Features
 
